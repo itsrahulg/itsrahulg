@@ -1,3 +1,4 @@
+![logo](https://github.com/itsrahulg/itsrahulg/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Rahul G</h1>
 <h3 align="center">An aspiring full stack developer and python programmer</h3>
 <br>
