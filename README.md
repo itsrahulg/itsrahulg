@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📚 I'm currently pursuing MCA at PSG college of technology<br>🎯 Goals: To become a godly developer that my name reaches the heavens themselves <br>🎲 Fun fact: i like cats</p>
+<p align="left"><strong> 📚 I'm currently pursuing : </strong>MCA at PSG college of technology<br><strong>🎯 Goals: </strong>To become a godly developer that my name reaches the heavens themselves <br>
+  <strong>🎲 Fun fact: </strong>i like cats</p>
 
 ###
 
