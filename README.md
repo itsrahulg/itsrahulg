@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rahul g and I'm an aspiring full-stack developer and python programmer</p>
+<p align="left">My name is Rahul G and I'm a full-stack developer and AI/ML developer</p>
 
 ###
 
