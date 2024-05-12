@@ -1,8 +1,5 @@
-<div align="left">
-</div>  
-  
 
-### <div align="center">Hello,  I am Rahul G 😎</div>  
+### <div align="center"><h1> Hello,  I am Rahul G 😎</h1></div>  
   
 
 - 🔭 I’m currently working on [EasyChat](https://github.com/itsrahulg/EasyChat), a chatting app using Kotlin
