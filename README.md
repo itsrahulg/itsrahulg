@@ -2,7 +2,7 @@
 ### <div align="center"><h1> Hello,  I am Rahul G 😎</h1></div>  
   
 
-- 🔭 I’m currently working on [EasyChat](https://github.com/itsrahulg/EasyChat), a chatting app using Kotlin
+- 🔭 I’m currently working on JOURNO, a Journal app using Django
   
 
 - 🌱 I’m currently learning Machine learning from Deep learning.ai  
