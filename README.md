@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on NoteNinja, a Notes app using Django
   
 
-- 🌱 I’m currently learning Machine learning from Deep learning.ai  
+- 🌱 I’m currently pursuing a Machine learning certification from Deep learning.ai  
   
 
 - ❓ Ask me about anything related to Web development and python programming  
